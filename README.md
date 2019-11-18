@@ -38,7 +38,7 @@ View the [Live Demo](tbc) here.
 ## Built With
 
 [JavaScript](https://developer.mozilla.org/bm/docs/Web/JavaScript) - to handle the data and its inputs/ outputs.
-[HTML](https://www.w3.org/html/) - the framework that pulls together  
+[HTML](https://www.w3.org/html/) - the framework that pulls everything together  
 [CSS](https://www.w3.org/Style/CSS/) - the styling of the document.
 
 ## Versioning
